@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,50:203a43,100:2c5364&amp;height=200&amp;section=header&amp;text=Prajyot%20Vijay%20Surwade&amp;fontSize=40&amp;fontColor=ffffff&amp;fontAlignY=35&amp;animation=fadeIn&amp;desc=Full-Stack%20Developer%20%7C%20Data%20Science%20%26%20AI%2FML%20%40%20IIT%20Madras&amp;descAlignY=55&amp;descSize=15&amp;descColor=a0c4ff" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=BE+IT+%40+SPPU+%7C+BS+Data+Science+%40+IIT+Madras;Full-Stack+Dev+%7C+AI%2FML+Engineer;Building+intelligent+systems+that+scale.+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=16&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=BE+IT+%40+SPPU+%7C+BS+Data+Science+%40+IIT+Madras;Full-Stack+Dev+%7C+AI%2FML+Engineer;Building+intelligent+systems+that+scale.+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
