@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Prajyot%20Vijay%20Surwade&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Data%20Science%20%26%20AI%2FML%20%40%20IIT%20Madras%20%7C%20Building%20Intelligent%2C%20Scalable%20Systems&descAlignY=58&descSize=14&descColor=a0c4ff" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Prajyot%20Vijay%20Surwade&fontSize=40&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Data%20Science%20%26%20AI%2FML%20%40%20IIT%20Madras%20%7C%20Building%20Intelligent%2C%20Scalable%20Systems&descAlignY=55&descSize=14&descColor=a0c4ff)
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=BE+IT+%40+SPPU+%7C+BS+Data+Science+%40+IIT+Madras;Full-Stack+Dev+%7C+AI%2FML+Engineer;Building+intelligent+systems+that+scale.+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
@@ -102,13 +104,6 @@ I'm a dual-degree student pursuing **BE in Information Technology** at Savitriba
 
 ---
 
-### 🌐 Languages
-
-- 🇬🇧 English — Native / Bilingual proficiency
-- 🇩🇪 German — Elementary proficiency
-
----
-
 ### 🤝 Connect
 
 <div align="center">
@@ -122,5 +117,7 @@ I'm a dual-degree student pursuing **BE in Information Technology** at Savitriba
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile+%F0%9F%91%8B" alt="footer" />
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer)
