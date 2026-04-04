@@ -102,27 +102,26 @@ I'm a dual-degree student pursuing **BE in Information Technology** at Savitriba
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=PrajyotVijay&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrajyotVijay&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PrajyotVijay&theme=tokyonight&hide_border=true" />
-</div>
-
----
 
 ### 🏅 Certifications & Internships
 
-- ☁️ **AI-Powered Cloud Engineer Virtual Internship** — AICTE × AWS Educate (Jan–Mar 2026, 10 weeks)
-- ☁️ **AWS Educate Badges** — Lambda, SageMaker, IAM, Generative AI, Core Cloud Services
-- ☁️ **Google Cloud Skill Boost** — Multiple skill badges
+- ☁️ **AI-Powered Cloud Engineer Virtual Internship** — AICTE × AWS Educate (Jan–Mar 2026, 10 weeks) [![Verify](https://img.shields.io/badge/Verify%20Certificate-2E7D32?style=flat-square&logo=checkmarx&logoColor=white)](https://certificate.eduskillsfoundation.org/verify/49628d7246ca7140f9c8/49628d7246ca7140f9c8)
 
+**🏷️ AWS Educate Badges** 
+
+![GenAI](https://img.shields.io/badge/Intro%20to%20Generative%20AI-412991?style=flat-square&logo=amazon-aws&logoColor=white)
+![ML](https://img.shields.io/badge/Machine%20Learning%20Foundations-412991?style=flat-square&logo=amazon-aws&logoColor=white)
+![Cloud101](https://img.shields.io/badge/Intro%20to%20Cloud%20101-1A73E8?style=flat-square&logo=amazon-aws&logoColor=white)
+![Compute](https://img.shields.io/badge/Getting%20Started%20with%20Compute-1A73E8?style=flat-square&logo=amazon-aws&logoColor=white)
+![Storage](https://img.shields.io/badge/Getting%20Started%20with%20Storage-2E7D32?style=flat-square&logo=amazon-aws&logoColor=white)
+![Databases](https://img.shields.io/badge/Getting%20Started%20with%20Databases-2E7D32?style=flat-square&logo=amazon-aws&logoColor=white)
+![Networking](https://img.shields.io/badge/Getting%20Started%20with%20Networking-1A73E8?style=flat-square&logo=amazon-aws&logoColor=white)
+![Security](https://img.shields.io/badge/Getting%20Started%20with%20Security-D32F2F?style=flat-square&logo=amazon-aws&logoColor=white)
+![Serverless](https://img.shields.io/badge/Getting%20Started%20with%20Serverless-412991?style=flat-square&logo=amazon-aws&logoColor=white)
+![CloudOps](https://img.shields.io/badge/Getting%20Started%20with%20Cloud%20Ops-1A73E8?style=flat-square&logo=amazon-aws&logoColor=white)
+
+- ☁️ **Google Cloud Skill Boost** — Hands-on labs in cloud computing & deployment 
 ---
 
 ### 🤝 Connect
