@@ -108,7 +108,7 @@ I'm a dual-degree student pursuing **BE in Information Technology** at Savitriba
 
 - ☁️ **AI-Powered Cloud Engineer Virtual Internship** — AICTE × AWS Educate (Jan–Mar 2026, 10 weeks) [![Verify](https://img.shields.io/badge/Verify%20Certificate-2E7D32?style=flat-square&logo=checkmarx&logoColor=white)](https://certificate.eduskillsfoundation.org/verify/49628d7246ca7140f9c8/49628d7246ca7140f9c8)
 
-**🏷️ AWS Educate Badges** 
+**AWS Educate Badges** 
 
 ![GenAI](https://img.shields.io/badge/Intro%20to%20Generative%20AI-412991?style=flat-square&logo=amazon-aws&logoColor=white)
 ![ML](https://img.shields.io/badge/Machine%20Learning%20Foundations-412991?style=flat-square&logo=amazon-aws&logoColor=white)
