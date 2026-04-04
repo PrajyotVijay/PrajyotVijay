@@ -5,6 +5,14 @@
 </div>
 
 ---
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=Full-Stack+Dev+%26+AI%2FML+Engineer;BS+Data+Science+%40+IIT+Madras+%7C+BE+IT+%40+SPPU;Building+Intelligent+Systems+That+Scale+%F0%9F%9A%80;Deep+Learning+%7C+MERN+Stack+%7C+Cloud+%7C+GenAI)](https://github.com/PrajyotVijay)
+
+</div>
+
+---
+
 
 ### 👋 About Me
 
