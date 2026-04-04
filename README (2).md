@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](./github-header-banner(1).png)
+![Header](./header.png)
 
 </div>
 
@@ -13,8 +13,15 @@
 
 ---
 
+<div align="center">
+<h3><i>"Code is poetry. Data is power. I write both."</i></h3>
+</div>
 
-### 👋 About Me
+<br>
+
+
+
+### 💫 About Me
 
 I'm a dual-degree student pursuing **BE in Information Technology** at Savitribai Phule Pune University (SPPU) and **BS in Data Science & Applications** (AI/ML specialization) at **IIT Madras** — building at the intersection of full-stack engineering and intelligent systems.
 
@@ -132,6 +139,5 @@ I'm a dual-degree student pursuing **BE in Information Technology** at Savitriba
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile+%F0%9F%91%8B)](https://github.com/PrajyotVijay)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Think.+Build.+Scale.+Repeat.+%E2%9A%A1;Thanks+for+visiting+my+profile+%F0%9F%91%8B)](https://github.com/PrajyotVijay)
 </div>
