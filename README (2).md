@@ -7,7 +7,7 @@
 ---
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&height=45&lines=console.log(%22Hello%2C+World!%22)+%F0%9F%91%BE;Full-Stack+Dev+%26+AI%2FML+Engineer+%F0%9F%9A%80;BS+Data+Science+%40+IIT+Madras+%7C+BE+IT+%40+SPPU;Building+LifeLine+%E2%80%94+Blood+%26+Organ+Donor+Finder+%F0%9F%A9%B8;Shipped+ShopAI+%E2%80%94+AI-Powered+E-Commerce+%F0%9F%9B%92;Machine+Learning+%7C+Deep+Learning+%7C+MERN+Stack+%7C+Cloud+%7C+GenAI;Building+Intelligent+Systems+That+Scale+%E2%9A%A1;404%3A+Sleep+not+found+%E2%98%95;It+works+on+my+machine+%F0%9F%98%85)](https://github.com/PrajyotVijay)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&height=45&lines=console.log(%22Hello%2C+World!%22);Full-Stack+Dev+%26+AI%2FML+Engineer+%F0%9F%9A%80;BS+Data+Science+%40+IIT+Madras+%7C+BE+IT+%40+SPPU;Building+LifeLine+%E2%80%94+Blood+%26+Organ+Donor+Finder+%F0%9F%A9%B8;Shipped+ShopAI+%E2%80%94+AI-Powered+E-Commerce+%F0%9F%9B%92;Machine+Learning+%7C+Deep+Learning+%7C+MERN+Stack+%7C+Cloud+%7C+GenAI;Building+Intelligent+Systems+That+Scale+%E2%9A%A1;404%3A+Sleep+not+found+%E2%98%95;It+works+on+my+machine+%F0%9F%98%85)](https://github.com/PrajyotVijay)
 
 </div>
 
@@ -61,6 +61,7 @@ I'm a dual-degree student pursuing **BE in Information Technology** at Savitriba
 ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 **AI / ML & Data Science**
 
