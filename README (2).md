@@ -90,8 +90,8 @@ I'm a dual-degree student pursuing **BE in Information Technology** at Savitriba
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [🩸 LifeLine](https://github.com/PrajyotVijay/lifeline) | Blood & organ donor finder — JWT auth, donor matching, admin panel | MERN, MongoDB, JWT |
-| [🛒 ShopAI](https://github.com/PrajyotVijay/ShopAI) | E-commerce with AI recommendations, fraud detection & admin dashboard | Flask, MySQL, Scikit-learn |
+| [🩸LifeLine](https://github.com/PrajyotVijay/lifeline)| Real-time donor discovery platform with geolocation matching, JWT authentication, and emergency requests | MERN, MongoDB, JWT |
+| [🛒ShopAI](https://github.com/PrajyotVijay/ShopAI) | AI-powered e-commerce platform with recommendation system, fraud detection, and admin dashboard | Flask, MySQL, Scikit-learn |
 
 ---
 
