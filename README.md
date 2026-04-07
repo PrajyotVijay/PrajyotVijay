@@ -30,7 +30,7 @@ I'm a dual-degree student pursuing **BE in Information Technology** at Savitriba
 - ☁️ Completed **AI-Powered Cloud Engineer Virtual Internship** — AICTE × AWS Educate (Jan–Mar 2026)
 - 🎓 CGPA: **9.82 / 10** (SPPU, Till Semester 2)
 - 🎹 Play harmonium & synthesizer | ✏️ Sketch | 🌌 Astronomy enthusiast | 🏸 Badminton player
-- 📍 Pune District, Maharashtra, India
+- 📍 Pune, Maharashtra, India
 
 ---
 
